@@ -72,7 +72,6 @@ profile_default/
 ipython_config.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -106,7 +105,6 @@ cython_debug/
 
 # IDE specific files
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -123,4 +121,5 @@ __init__.py
 
 # Environment files
 *.env
-.env.*
+config.bat
+node_modules
